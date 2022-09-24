@@ -9,4 +9,4 @@
 4. The `good.json` file will appear in the same directory where `converter.py` is located
 
 # Limitations
-- Currently only supports converting the artifacts in `mona.json` because the purpose of this tool is to convert the artifacts scanned by [yas](https://github.com/wormtql/yas) into [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/characters)
+- Currently only supports converting the artifacts in `mona.json` because the purpose of this tool is to import the artifacts scanned by [yas](https://github.com/wormtql/yas) into [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/characters)
